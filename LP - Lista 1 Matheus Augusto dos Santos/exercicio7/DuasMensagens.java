@@ -1,0 +1,15 @@
+/*
+ * DuasMensagens.java
+ * Matheus Augusto dos Santos Silva
+ * 
+ * 
+ */
+
+
+public class DuasMensagens {
+	
+	public static void main (String[] args) {
+		System.out.println("Hello World 1\nHello World 2");
+	}
+}
+
